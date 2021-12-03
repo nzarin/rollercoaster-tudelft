@@ -1,3 +1,9 @@
+# Rollercoaster Paper Reproduction and Extension Study
+
+This research is conducted for the course CS4285 Seminar: Decentralised Systems (2021/22 Q1) from Delft University of Technology.
+
+The present repository builds upon the original work in https://github.com/lambdapioneer/rollercoaster. Some changed have been made to the code. Four new Jupyter Notebook files have been added that test Rollercoaster with parameters p and k separetely. The corresponding report that discusses the results of the reproduction and extented study is called "reproduction and extension Rollercoaster.pdf". More details on how to run this code can be found there. The next sections in this READ-ME document are copied from the original study to prevent going back and forward between the two repositories.  Questions regarding the report or code can be forwarded to n.zarin@student.tudelft.nl.     
+
 # Mix Network Simulator (Rollercoaster Paper) 🎢
 
 This repository contains a Loopix mix network simulator that accompanies the paper accepted at USENIX Security 2021: "Rollercoaster: An Efficient Group-Multicast Scheme for Mix Networks".
